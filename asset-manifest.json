@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/JradJR/memory-game.git/static/css/main.6b2cdd70.chunk.css",
-    "main.js": "/JradJR/memory-game.git/static/js/main.edefcb1d.chunk.js",
-    "main.js.map": "/JradJR/memory-game.git/static/js/main.edefcb1d.chunk.js.map",
-    "runtime-main.js": "/JradJR/memory-game.git/static/js/runtime-main.02e3b5ff.js",
-    "runtime-main.js.map": "/JradJR/memory-game.git/static/js/runtime-main.02e3b5ff.js.map",
-    "static/js/2.1531abc6.chunk.js": "/JradJR/memory-game.git/static/js/2.1531abc6.chunk.js",
-    "static/js/2.1531abc6.chunk.js.map": "/JradJR/memory-game.git/static/js/2.1531abc6.chunk.js.map",
-    "index.html": "/JradJR/memory-game.git/index.html",
-    "static/css/main.6b2cdd70.chunk.css.map": "/JradJR/memory-game.git/static/css/main.6b2cdd70.chunk.css.map",
-    "static/js/2.1531abc6.chunk.js.LICENSE.txt": "/JradJR/memory-game.git/static/js/2.1531abc6.chunk.js.LICENSE.txt",
-    "static/media/index.css": "/JradJR/memory-game.git/static/media/background.a961c39a.jpg"
+    "main.css": "/JradJR/memory-game/static/css/main.1b8cc018.chunk.css",
+    "main.js": "/JradJR/memory-game/static/js/main.edefcb1d.chunk.js",
+    "main.js.map": "/JradJR/memory-game/static/js/main.edefcb1d.chunk.js.map",
+    "runtime-main.js": "/JradJR/memory-game/static/js/runtime-main.82314d9d.js",
+    "runtime-main.js.map": "/JradJR/memory-game/static/js/runtime-main.82314d9d.js.map",
+    "static/js/2.1531abc6.chunk.js": "/JradJR/memory-game/static/js/2.1531abc6.chunk.js",
+    "static/js/2.1531abc6.chunk.js.map": "/JradJR/memory-game/static/js/2.1531abc6.chunk.js.map",
+    "index.html": "/JradJR/memory-game/index.html",
+    "static/css/main.1b8cc018.chunk.css.map": "/JradJR/memory-game/static/css/main.1b8cc018.chunk.css.map",
+    "static/js/2.1531abc6.chunk.js.LICENSE.txt": "/JradJR/memory-game/static/js/2.1531abc6.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/JradJR/memory-game/static/media/background.a961c39a.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.02e3b5ff.js",
+    "static/js/runtime-main.82314d9d.js",
     "static/js/2.1531abc6.chunk.js",
-    "static/css/main.6b2cdd70.chunk.css",
+    "static/css/main.1b8cc018.chunk.css",
     "static/js/main.edefcb1d.chunk.js"
   ]
 }
